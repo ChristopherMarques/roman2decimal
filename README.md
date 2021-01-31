@@ -1,5 +1,7 @@
-(https://img.shields.io/github/license/ChristopherMarques/roman2decimal) (https://img.shields.io/badge/Part%20of%20Challenge-30Days30Projects-orange)
 # 🟣 Roman to Decimal Converter
+
+[![licence mit](https://img.shields.io/github/license/ChristopherMarques/roman2decimal)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
+[![#30Days30Projects](https://img.shields.io/badge/Part%20of%20Challenge-30Days30Projects-orange)](https://github.com/florinpop17/100Days100Projects)
 
 > This is a project of a Roman to Decimal Converter, that i've made to study TypeScript and NextJS. 😀
 > This project was made as a part of #30Days30Projects Challenge, created by @florinpop17, that consists in: create a project per day along 30 days. 🤓
