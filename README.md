@@ -12,9 +12,9 @@
 * Framework React: [Next JS](https://nextjs.org) ✔
 * Host: [Vercel](https://vercel.com) ✔
 
-## How can you see the project
+## How can you see the project?
 
-> I was deployed this project on Vercel(The company that have created NextJS), and you can see a live preview here: [`Live Preview`](https://roman2decimal.vercel.app)
+> I've deployed this project on Vercel(The company that have created NextJS), and you can see a live preview here: [`Live Preview`](https://roman2decimal.vercel.app)
 
 ## If you want to study with this project, here are steps:
 
@@ -26,4 +26,4 @@ Run ```bash npm install ``` inside the folder to install the dependencies of thi
 
 Run ```bash npm run dev ``` to run development server of this project on your machine
 
-Just it! Now you can access this project by: localhost:3000.
+Just it! Now you can access this project by: localhost:3000 on your browser.
