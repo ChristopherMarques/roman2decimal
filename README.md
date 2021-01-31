@@ -1,21 +1,27 @@
-# Next.js + Tailwind CSS Example
+(https://img.shields.io/github/license/ChristopherMarques/roman2decimal) (https://img.shields.io/badge/Part%20of%20Challenge-30Days30Projects-orange)
+# 🟣 Roman to Decimal Converter
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) (v2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+> This is a project of a Roman to Decimal Converter, that i've made to study TypeScript and NextJS. 😀
+> This project was made as a part of #30Days30Projects Challenge, created by @florinpop17, that consists in: create a project per day along 30 days. 🤓
 
-## Deploy your own
+## Technologies i've used in this project
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+* Utility-first CSS framework: [Tailwind CSS](https://tailwindcss.com/) ✔
+* Framework React: [Next JS](https://nextjs.org) ✔
+* Host: [Vercel](https://vercel.com) ✔
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## How can you see the project
 
-## How to use
+> I was deployed this project on Vercel(The company that have created NextJS), and you can see a live preview here: [`Live Preview`](https://roman2decimal.vercel.app)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+## If you want to study with this project, here are steps:
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+Use *git clone <repo>* on terminal to have this project on your machine
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Run *cd <folder of project>* to open the folder of project
+
+Run ```bash npm install ``` inside the folder to install the dependencies of this project.
+
+Run ```bash npm run dev ``` to run development server of this project on your machine
+
+Just it! Now you can access this project by: localhost:3000.
